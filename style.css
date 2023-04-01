@@ -1,0 +1,25 @@
+*{
+    background-color: gray;
+   
+}
+
+.title{
+    color: red;
+    font-size: 34px;
+    background-color: black;
+    padding: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+img{
+    width: 240px;
+    height: auto;
+}
+a, p, li{
+    font-size: 18px;
+}
+
+a{
+    color: yellow;
+}
